@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "iSend.ai",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2AB673",
+    "light": "#55D799",
+    "dark": "#117866"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -19,17 +19,6 @@
               "introduction",
               "quickstart",
               "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
             ]
           }
         ]
@@ -76,7 +65,7 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "/logo/logo-w-bg.svg",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
